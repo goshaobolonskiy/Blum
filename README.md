@@ -1,3 +1,6 @@
 # Blum
 Автоматизация Blum с помощью python
-pip install -r requirements.txt
+# Установка
+```pip install -r requirements.txt```
+# Запустить
+```python main.py```
