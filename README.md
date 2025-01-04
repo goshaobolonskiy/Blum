@@ -7,5 +7,7 @@
 И некоторые зависимости
 ```pip install -r requirements.txt```
 
+А так же в файле main.py заменить token на свой.
 # Запустить
-```python main.py```
+Для запуска нужно прописать в терминал
+```python visualization.py```
