@@ -3,6 +3,8 @@
 
 # Установка
 Для запуска нужно установить [BlumPayloadGenerator](https://github.com/KobaProduction/BlumPayloadGenerator/blob/master/README.md)
+
+И некоторые зависимости
 ```python pip install -r requirements.txt```
 
 # Запустить
