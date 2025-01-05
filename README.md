@@ -10,4 +10,4 @@
 А так же в файле main.py заменить token на свой.
 # Запустить
 Для запуска нужно прописать в терминал
-```python visualization.py```
+```python main.py```
