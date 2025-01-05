@@ -2,7 +2,6 @@ import requests
 import json
 import time
 import random
-import pprint
 import sys
 
 sys.stdin.reconfigure(encoding='utf-8')
